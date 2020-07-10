@@ -2,8 +2,7 @@ import re
 
 
 print('My calculator')
-#Ignore this, line added to learn git
-#Ignore this, line adde to try git diff
+
 print('Type "quit" to exit the program\n')
 
 run = True
